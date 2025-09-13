@@ -8,8 +8,7 @@ The purpose of this project was to create something that would adapt to differen
 
 -HTML
 -CSS
--RESPONSIVE DESIGN
--Figma
+-JavaScript
 
 ## Deployment
 
